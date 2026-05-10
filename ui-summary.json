@@ -1,11 +1,11 @@
 {
   "title": "初対面ひと言札",
   "archetype": "flow_pick",
-  "interaction_model": "toggle_ingredients_to_survivor_meals",
-  "primary_layout": "ingredient_filter_bar_with_meal_cards",
-  "result_presentation_style": "remaining_meal_cards",
-  "palette_motif": "キッチンアプリコット",
-  "main_cta": "冷蔵庫の残りで試す",
-  "intro_variant": "dinner_pick",
-  "ui_variant": "dinner"
+  "interaction_model": "editable_people_context_to_opening_cards",
+  "primary_layout": "person_context_editor_with_phrase_cards",
+  "result_presentation_style": "opening_line_and_bridge_cards",
+  "palette_motif": "初対面ブリッジブルー",
+  "main_cta": "初対面の前で試す",
+  "intro_variant": "first_meeting_cards",
+  "ui_variant": "intro"
 }
